@@ -100,7 +100,7 @@ export default function Home() {
         </Stack>
       </Box>
     </Modal>
-    <Typography variant ="h1">Inventory Management</Typography>
+    <Typography variant ="h1">Pantry Tracker</Typography>
     <Button variant="contained" onClick={()=>{
       handleOpen()
     }}>Add New Item</Button>
